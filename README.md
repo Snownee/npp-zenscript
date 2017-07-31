@@ -1,2 +1,2 @@
 # npp-zenscript
-zenscript code highlighting in notepad++
+ZenScript code highlighter for Notepad++
